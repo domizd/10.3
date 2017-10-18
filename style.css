@@ -17,7 +17,7 @@ ul>li {
   float: left;
 }
 
-.carousel {
+#carousel {
   overflow: hidden;
   border: solid;
   width: 400px;
